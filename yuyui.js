@@ -9,7 +9,7 @@ yuyuJs.on('ready', () => {
 console.log('yuyu esta online :)')
 let status  = [
     `Use yuyu ajuda para meus comandos 🔧`,
-    `Meu criador sugar#9906 :)`,
+    `Meu criador Lil#9906 :)`,
     `p-p`
 ],
 i = 0;
@@ -68,4 +68,4 @@ yuyuJs.on('message', async msg => {
 })
 
 // token da yuyu
-yuyuJs.login('')
+yuyuJs.login('coloque seu token aqui')
